@@ -1,0 +1,845 @@
+# Translation of Plugins - FluentSnippets &#8211; The High-Performance file based Custom Code Snippets Plugin - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - FluentSnippets &#8211; The High-Performance file based Custom Code Snippets Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-14 13:53:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - FluentSnippets &#8211; The High-Performance file based Custom Code Snippets Plugin - Stable (latest release)\n"
+
+#: app/Services/Trans.php:52
+msgid "Backend footer"
+msgstr "Pied de page de l’interface d’administration"
+
+#: app/Services/Trans.php:51
+msgid "Backend Head"
+msgstr "En-tête de l’interface d’administration"
+
+#: app/Services/Trans.php:50
+msgid "After post content"
+msgstr "Après contenu de la publication"
+
+#: app/Services/Trans.php:49
+msgid "Before post content"
+msgstr "Avant le contenu de la publication"
+
+#: app/Services/Trans.php:48
+msgid "Frontend body open"
+msgstr "Corps de l’interface publique ouverte"
+
+#: app/Services/Trans.php:47
+msgid "Frontend footer"
+msgstr "Pied de page de l’interface publique"
+
+#: app/Services/Trans.php:46
+msgid "Frontend head"
+msgstr "En-tête de l’interface publique"
+
+#: app/Services/Trans.php:45
+msgid "Frontend only"
+msgstr "Interface publique uniquement"
+
+#: app/Services/Trans.php:44
+msgid "Admin only"
+msgstr "Uniquement dans l’administration"
+
+#: app/Services/Trans.php:43
+msgid "Everywhere"
+msgstr "Partout"
+
+#: app/Services/Trans.php:28
+msgid "No Snippets Found based on your filter"
+msgstr "Aucun extrait trouvé basé sur votre filtre"
+
+#: app/Services/Trans.php:20
+msgid "Create Your First Snippet"
+msgstr "Créez votre premier extrait"
+
+#: app/Http/Controllers/SnippetsController.php:290
+#: app/Http/Controllers/SnippetsController.php:291
+msgid "%s is required"
+msgstr "%s est obligatoire"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:231
+msgid "Run Javascript in admin area (/wp-admin/) before the closing body tag."
+msgstr "Exécuter le Javascript dans la zone d’administration (/wp-admin/) avant la balise de fermeture du corps."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:230
+msgid "Admin Area Footer"
+msgstr "Pied de page de la zone d’administration"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:227
+msgid "Run Javascript in admin area (/wp-admin/)."
+msgstr "Exécuter JavaScript dans la zone d’administration (/wp-admin/)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:226
+msgid "Admin Area Header"
+msgstr "En-tête de la zone d’administration"
+
+#: app/Services/Trans.php:117
+msgid "Enable Conditional Logic"
+msgstr "Activer la logique conditionnelle"
+
+#: app/Services/Trans.php:116
+msgid "Advanced Conditional Logic"
+msgstr "Logique conditionnelle avancée"
+
+#: app/Services/Trans.php:115
+msgid "Create Snippet"
+msgstr "Créer un extrait"
+
+#: app/Services/Trans.php:114
+msgid "Create New"
+msgstr "Créer un nouveau"
+
+#: app/Services/Trans.php:113
+msgid "Create new tag"
+msgstr "Créer une nouvelle balise"
+
+#: app/Services/Trans.php:112
+msgid "Select Snippet Tags"
+msgstr "Sélectionner les balises de l’extrait"
+
+#: app/Services/Trans.php:111
+msgid "Snippet has been updated successfully"
+msgstr "L’extrait a bien été mis à jour"
+
+#: app/Services/Trans.php:110
+msgid "The code should not start with <?php"
+msgstr "Le code ne doit pas commencer par <?php"
+
+#: app/Services/Trans.php:109
+msgid "Please enter some code to save"
+msgstr "Veuillez saisir du code à enregistrer"
+
+#: app/Services/Trans.php:108
+msgid "Try Reactivate"
+msgstr "Essayer de réactiver"
+
+#: app/Services/Trans.php:107
+msgid "Error Message:"
+msgstr "Message d’erreur :"
+
+#: app/Services/Trans.php:106
+msgid "The snippet encountered an fatal error and It has been deactivated automatically. Please review your code, fix the issues and reactive."
+msgstr "L’extrait a rencontré une erreur fatale et a été automatiquement désactivé. Veuillez vérifier votre code, corriger les problèmes et réagir."
+
+#: app/Services/Trans.php:105
+msgid "Sorry Snippet could not be loaded"
+msgstr "Désolé, l’extrait n’a pas pu être chargé"
+
+#: app/Services/Trans.php:102
+msgid "Update Snippet"
+msgstr "Mettre à jour l’extrait"
+
+#: app/Services/Trans.php:101
+msgid "Snippet details"
+msgstr "Détails de l’extrait"
+
+#: app/Services/Trans.php:100
+msgid "PAUSED"
+msgstr "Mis en pause"
+
+#: app/Services/Trans.php:99
+msgid "Select Snippet Group"
+msgstr "Sélectionner le groupe de l’extrait"
+
+#: app/Services/Trans.php:98
+msgid "Create new group"
+msgstr "Créer un nouveau groupe"
+
+#: app/Services/Trans.php:97
+msgid "Snippet Group"
+msgstr "Groupe de l’extrait"
+
+#: app/Services/Trans.php:96
+msgid "Your Snippet Name"
+msgstr "Nom de votre extrait"
+
+#: app/Services/Trans.php:95
+msgid "Snippet Name"
+msgstr "Nom de l’extrait"
+
+#: app/Services/Trans.php:94
+msgid "Code"
+msgstr "Code"
+
+#: app/Services/Trans.php:93
+msgid "Disable Safe Mode"
+msgstr "Désactiver le mode sans échec"
+
+#: app/Services/Trans.php:92
+msgid "Safe Mode is Enabled"
+msgstr "Le mode sans échec est activé"
+
+#: app/Services/Trans.php:91
+msgid "And"
+msgstr "Et"
+
+#: app/Services/Trans.php:90
+msgid "Please enter a keyword"
+msgstr "Veuillez saisir un mot-clé"
+
+#: app/Services/Trans.php:89
+msgid "Add"
+msgstr "Ajouter"
+
+#: app/Services/Trans.php:88
+msgid "Provide Name"
+msgstr "Fournir un nom"
+
+#: app/Services/Trans.php:87
+msgid "OR"
+msgstr "Ou"
+
+#: app/Services/Trans.php:86
+msgid "within days"
+msgstr "dans les jours qui suivent"
+
+#: app/Services/Trans.php:85
+msgid "before days"
+msgstr "jours avant"
+
+#: app/Services/Trans.php:84
+msgid "in the date"
+msgstr "dans la date"
+
+#: app/Services/Trans.php:83
+msgid "after"
+msgstr "après"
+
+#: app/Services/Trans.php:82
+msgid "before"
+msgstr "avant"
+
+#: app/Services/Trans.php:81
+msgid "not within"
+msgstr "not within"
+
+#: app/Services/Trans.php:80
+msgid "within"
+msgstr "dans"
+
+#: app/Services/Trans.php:79
+msgid "not equal"
+msgstr "pas égal"
+
+#: app/Services/Trans.php:78
+msgid "includes none of (match all)"
+msgstr "n'inclut aucun (correspond à tout)"
+
+#: app/Services/Trans.php:77
+msgid "includes all of"
+msgstr "inclut l'ensemble des"
+
+#: app/Services/Trans.php:76
+msgid "Does not include (in any)"
+msgstr "N’inclut pas (dans aucun)"
+
+#: app/Services/Trans.php:75
+msgid "Not Empty"
+msgstr "Non vide"
+
+#: app/Services/Trans.php:74
+msgid "Empty"
+msgstr "Vide"
+
+#: app/Services/Trans.php:73
+msgid "not includes in"
+msgstr "non inclus dans"
+
+#: app/Services/Trans.php:72
+msgid "includes in"
+msgstr "inclus dans"
+
+#: app/Services/Trans.php:71
+msgid "Less Than"
+msgstr "Moins que"
+
+#: app/Services/Trans.php:70
+msgid "Greater Than"
+msgstr "Plus grand que"
+
+#: app/Services/Trans.php:69
+msgid "ends with"
+msgstr "se termine par"
+
+#: app/Services/Trans.php:68
+msgid "starts with"
+msgstr "commence par"
+
+#: app/Services/Trans.php:67
+msgid "does not equal"
+msgstr "n’est pas égal à"
+
+#: app/Services/Trans.php:66
+msgid "equal"
+msgstr "égal"
+
+#: app/Services/Trans.php:65
+msgid "does not includes"
+msgstr "n’inclut pas"
+
+#: app/Services/Trans.php:64
+msgid "includes"
+msgstr "inclut"
+
+#: app/Services/Trans.php:63
+msgid "Days"
+msgstr "Jours"
+
+#: app/Services/Trans.php:62
+msgid "Select Option"
+msgstr "Sélectionner une option"
+
+#: app/Services/Trans.php:61
+msgid "Condition Value"
+msgstr "Valeur de condition"
+
+#: app/Services/Trans.php:60
+msgid "Select Operator"
+msgstr "Sélectionner l’opérateur"
+
+#: app/Services/Trans.php:59
+msgid "Failed to copy shortcode"
+msgstr "Échec de la copie du code court"
+
+#: app/Services/Trans.php:58
+msgid "Shortcode copied to clipboard"
+msgstr "Code court copié dans le presse-papier"
+
+#: app/Services/Trans.php:57
+msgid "Use Shortcode to display the return or print content of this snippet:"
+msgstr "Utilisez un code court pour afficher le retour ou imprimez le contenu de cet extrait :"
+
+#: app/Services/Trans.php:56
+msgid "You can view the shortcode after save this snippet"
+msgstr "Vous pouvez voir le code court après avoir enregistré cet extrait."
+
+#: app/Services/Trans.php:55
+msgid "selected"
+msgstr "sélectionné"
+
+#: app/Services/Trans.php:54
+msgid "Select Snippet Run Location"
+msgstr "Sélectionner l’emplacement d’exécution de l’extrait"
+
+#: app/Services/Trans.php:53
+msgid "Where to Run?"
+msgstr "Où exécuter ?"
+
+#: app/Services/Trans.php:42
+msgid "Created At"
+msgstr "Créé le"
+
+#: app/Services/Trans.php:41
+msgid "Name"
+msgstr "Nom"
+
+#: app/Services/Trans.php:40
+msgid "Are you sure to delete this?"
+msgstr "Confirmez-vous vouloir supprimer ceci ?"
+
+#: app/Services/Trans.php:39
+msgid "Priority"
+msgstr "Priorité"
+
+#: app/Services/Trans.php:38
+msgid "Updated At"
+msgstr "Mis à jour le"
+
+#: app/Services/Trans.php:37
+msgid "Tags"
+msgstr "Balises"
+
+#: app/Services/Trans.php:36
+msgid "Type"
+msgstr "Type"
+
+#: app/Services/Trans.php:35
+msgid "ERROR:"
+msgstr "Erreur :"
+
+#: app/Services/Trans.php:34
+msgid "Description"
+msgstr "Description"
+
+#: app/Services/Trans.php:33
+msgid "delete"
+msgstr "supprimer"
+
+#: app/Services/Trans.php:32
+msgid "edit"
+msgstr "modifier"
+
+#: app/Services/Trans.php:31
+msgid "ERROR"
+msgstr "Erreur"
+
+#: app/Services/Trans.php:30
+msgid "Title"
+msgstr "Titre"
+
+#: app/Services/Trans.php:29
+msgid "Paused"
+msgstr "Mis en pause"
+
+#: app/Services/Trans.php:27
+msgid "Sort"
+msgstr "Trier"
+
+#: app/Services/Trans.php:26
+msgid "Apply"
+msgstr "Appliquer"
+
+#: app/Services/Trans.php:25
+msgid "Descending"
+msgstr "Décroissant"
+
+#: app/Services/Trans.php:24
+msgid "Ascending"
+msgstr "Croissant"
+
+#: app/Services/Trans.php:22
+msgid "Grouped"
+msgstr "Groupé"
+
+#: app/Services/Trans.php:23
+msgid "Table"
+msgstr "Tableau"
+
+#: app/Services/Trans.php:21
+msgid "All Snippets"
+msgstr "Tous les extraits"
+
+#: app/Services/Trans.php:19
+msgid "New Snippet"
+msgstr "Nouvel extrait"
+
+#: app/Services/Trans.php:18
+msgid "Code Snippets"
+msgstr "Extraits de code"
+
+#: app/Services/Trans.php:17
+msgid "Enable Standalone Mode"
+msgstr "Activer le mode autonome"
+
+#: app/Services/Trans.php:16
+msgid "Disable Standalone Mode"
+msgstr "Désactiver le mode autonome"
+
+#: app/Services/Trans.php:15
+msgid "Enabled"
+msgstr "﻿Activé"
+
+#: app/Services/Trans.php:14
+msgid "Standalone Mode (Must use mode)"
+msgstr "Mode autonome (mode indispensable)"
+
+#: app/Services/Trans.php:13
+msgid "Enable Safe Mode Programmatically:"
+msgstr "Activer le mode sans échec par programmation :"
+
+#: app/Services/Trans.php:12
+msgid "Safe Mode"
+msgstr "Mode sans échec"
+
+#: app/Services/Trans.php:11
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: app/Services/Trans.php:10
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: app/Services/Trans.php:9
+msgid "Settings"
+msgstr "Réglages"
+
+#: app/Http/Controllers/SettingsController.php:345
+msgid "Plugin has been successfully installed."
+msgstr "L’extension a bien été installée."
+
+#: app/Http/Controllers/SettingsController.php:333
+msgid "Go to Ninja Tables Dashboard"
+msgstr "Aller au tableau de bord Ninja Tables"
+
+#: app/Http/Controllers/SettingsController.php:329
+msgid "Go to FluentCRM Dashboard"
+msgstr "Aller au tableau de bord FluentCRM"
+
+#: app/Http/Controllers/SettingsController.php:325
+msgid "Go to Fluent Forms Dashboard"
+msgstr "Aller au tableau de bord Fluent Forms"
+
+#: app/Http/Controllers/SettingsController.php:321
+msgid "Go to FluentSMTP Dashboard"
+msgstr "Aller au tableau de bord FluentSMTP"
+
+#: app/Services/PhpValidator.php:270
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr "Erreur d’analyse : erreur de syntaxe, fin inattendue de l’extrait."
+
+#. translators: %s: PHP identifier name
+#: app/Services/PhpValidator.php:229
+msgid "Cannot redeclare %s."
+msgstr "Impossible de déclarer à nouveau %s."
+
+#. translators: %s: PHP interface name
+#: app/Services/PhpValidator.php:225
+msgid "Cannot redeclare interface %s."
+msgstr "Impossible de déclarer à nouveau l’interface %s."
+
+#. translators: %s: PHP class name
+#: app/Services/PhpValidator.php:221
+msgid "Cannot redeclare class %s."
+msgstr "Impossible de déclarer à nouveau la classe %s."
+
+#. translators: %s: PHP function name
+#: app/Services/PhpValidator.php:217
+msgid "Cannot redeclare function %s."
+msgstr "Impossible de déclarer à nouveau la fonction %s."
+
+#: app/Services/PhpValidator.php:203
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr "Erreur d’analyse : erreur de syntaxe, fin inattendue de l’extrait."
+
+#: app/Http/Controllers/SnippetsController.php:280
+msgid "Snippet has been deleted successfully"
+msgstr "L’extrait a bien été supprimé"
+
+#: app/Http/Controllers/SnippetsController.php:141
+msgid "Snippet created successfully"
+msgstr "L’extrait a bien été créé"
+
+#: app/Http/Controllers/SettingsController.php:124
+msgid "Standalone mode has been deactivated"
+msgstr "Le mode autonome a été désactivé"
+
+#: app/Http/Controllers/SettingsController.php:122
+msgid "Standalone mode has been activated"
+msgstr "Le mode autonome a été activé"
+
+#: app/Http/Controllers/SettingsController.php:108
+msgid "Safe mode has been disabled"
+msgstr "Le mode sans échec a été désactivé"
+
+#: app/Http/Controllers/SettingsController.php:86
+msgid "Settings has been successfully updated"
+msgstr "Les réglages ont bien été mis à jour"
+
+#: app/Hooks/Handlers/CodeHandler.php:128
+msgid "This message is only visible to site admin role"
+msgstr "Ce message est uniquement visible par le rôle administrateur/administratrice"
+
+#: app/Hooks/Handlers/CodeHandler.php:126
+msgid "Shortcode could not be rendered"
+msgstr "Le code court n’a pas pu être rendu"
+
+#: app/Hooks/Handlers/CodeHandler.php:115
+msgid "Return Data is not valid. Return data need to be string or number"
+msgstr "Les données de retour ne sont pas valides. Les données de retour doivent être des chaînes de caractères ou des nombres."
+
+#: app/Hooks/Handlers/CodeHandler.php:98
+msgid "Snippet condition is not valid"
+msgstr "La condition de l’extrait n’est pas valide"
+
+#: app/Hooks/Handlers/CodeHandler.php:92
+msgid "Snippet status is not published"
+msgstr "L’état de l’extrait n’est pas publié"
+
+#: app/Hooks/Handlers/CodeHandler.php:88
+msgid "Snippet run at is not shortcode"
+msgstr "L’extrait exécuté n’est pas un code court"
+
+#: app/Hooks/Handlers/CodeHandler.php:84
+msgid "Snippet type is not PHP Content"
+msgstr "Le type d’extrait n’est pas un contenu PHP"
+
+#: app/Hooks/Handlers/CodeHandler.php:74
+msgid "Snippet has an error"
+msgstr "L’extrait comporte une erreur"
+
+#: app/Hooks/Handlers/CodeHandler.php:69
+msgid "Snippets are disabled"
+msgstr "Les extraits sont désactivés"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:403
+msgid "Contact Lists"
+msgstr "Listes de contacts"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:394
+msgid "Contact Tags"
+msgstr "Étiquettes de contact"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:384
+msgid "Is a CRM Contact?"
+msgstr "Est-ce un contact CRM ?"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:380
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:369
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:368
+msgid "Saturday"
+msgstr "Samedi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:367
+msgid "Friday"
+msgstr "Vendredi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:366
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:365
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:364
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:363
+msgid "Monday"
+msgstr "Lundi"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:359
+msgid "Day of the week"
+msgstr "Jour de la semaine"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:352
+msgid "Time Range"
+msgstr "Plage horaire"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:344
+msgid "Date Range"
+msgstr "Plage de dates"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:339
+msgid "Date"
+msgstr "Date"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:323
+msgid "URL"
+msgstr "URL"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:315
+msgid "Taxonomy Term Page"
+msgstr "Page de termes de taxonomie"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:308
+msgid "Taxonomy Page"
+msgstr "Page de taxonomie"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:301
+msgid "Post Type"
+msgstr "Type de publication"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:297
+msgid "Author page"
+msgstr "Page de l’auteur/autrice"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:296
+msgid "404 page"
+msgstr "Page 404"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:295
+msgid "Search page"
+msgstr "Page de recherche"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:294
+#: app/Hooks/Handlers/AdminMenuHandler.php:328
+msgid "Single Post/Page/CPT"
+msgstr "Page d’article/page/TPP (CPT) unique"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:293
+msgid "Archive"
+msgstr "Archive"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:292
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:286
+msgid "Type of page"
+msgstr "Type de page"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:282
+msgid "Page"
+msgstr "Page"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:272
+msgid "User Role"
+msgstr "Rôle du compte"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:262
+msgid "Logged-in"
+msgstr "Connecté"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:258
+msgid "User"
+msgstr "Compte"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:223
+msgid "Run Javascript before the closing body tag of your website on all pages (frontend)."
+msgstr "Exécuter JavaScript avant la balise « body » fermante de votre site sur toutes les pages (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:219
+msgid "Run Javascript between the head tags of your website on all pages (frontend)."
+msgstr "Exécuter JavaScript entre les balises « head » de votre site sur toutes les pages (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:213
+msgid "Scripts"
+msgstr "Scripts"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:208
+msgid "Apply this snippet CSS to both backend and frontend."
+msgstr "Appliquer cet extrait CSS aux interfaces publique et d’administration."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:207
+msgid "Both Backend and Frontend"
+msgstr "À la fois sur les interfaces publique et d’administration"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:204
+msgid "Apply this snippet CSS to backend (/wp-admin/)."
+msgstr "Appliquer cet extrait CSS à l’interface d’administration (/wp-admin/)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:203
+msgid "Backend"
+msgstr "Interface d’administration"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:200
+msgid "Add CSS on all pages (frontend)."
+msgstr "Ajouter le CSS sur toutes les pages (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:199
+msgid "Frontend"
+msgstr "Interface publique"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:194
+msgid "Styles"
+msgstr "Styles"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:189
+msgid "Insert snippet at the end of single post/page content."
+msgstr "Insérer un extrait à la fin du contenu d’une publication/page unique."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:188
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:185
+msgid "Insert snippet at the beginning of single post/page content."
+msgstr "Insérer un extrait au début du contenu d’une publication/page unique."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:184
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:181
+msgid "Insert snippet before the closing body tag of your website on all pages (frontend)."
+msgstr "Insérer un extrait après la balise « body » fermante de votre site sur toutes les pages (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:180
+#: app/Hooks/Handlers/AdminMenuHandler.php:222
+msgid "Site Wide Footer"
+msgstr "Pied de page de l’ensemble du site"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:177
+msgid "Insert snippet after the opening body tag of your website (frontend)."
+msgstr "Insérer un extrait après la balise « body » d’ouverture de votre site (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:176
+msgid "Site Wide Body Open"
+msgstr "Ouverture du corps sur l’ensemble du site"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:173
+msgid "Insert snippet between the head tags of your website (frontend)."
+msgstr "Insérez l’extrait entre les balises « head » de votre site (interface publique)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:172
+#: app/Hooks/Handlers/AdminMenuHandler.php:218
+msgid "Site Wide Header"
+msgstr "Entête de l’ensemble du site"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:169
+msgid "Only display when inserted into a post or page using shortcode"
+msgstr "Afficher uniquement lorsque inséré dans une publication ou une page à l’aide d’un code court"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:168
+msgid "Shortcode"
+msgstr "Code court"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:163
+msgid "Content"
+msgstr "Contenu"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:158
+msgid "Snippet gets executed only in frontend area"
+msgstr "L’extrait est uniquement exécuté dans la zone d’interface publique"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:157
+msgid "Frontend Only"
+msgstr "Interface publique uniquement"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:154
+msgid "Snippet gets executed only in admin area (/wp-admin/)"
+msgstr "L’extrait est uniquement exécuté dans la zone d’administration (/wp-admin/)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:153
+msgid "Admin Only"
+msgstr "Uniquement dans l’administration"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:150
+msgid "Snippet gets executed everywhere (both frontend and admin area)"
+msgstr "L’extrait est exécuté partout (à la fois sur l’interface publique et dans la zone d’administration)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:149
+msgid "Run Everywhere"
+msgstr "Exécuter partout"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:144
+msgid "Functions"
+msgstr "Fonctions"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:126
+msgid "Loading Snippets.."
+msgstr "Chargement des extraits…"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:23
+msgid "FluentSnippets"
+msgstr "FluentSnippets"
+
+#. Description of the plugin
+#: easy-code-manager.php
+msgid "Super Fast File Based Native Code Snippets (header / footer codes) Manager for WordPress"
+msgstr "Gestionnaire d’extraits de code natifs (codes d’en-tête et de pied de page) super rapide basé sur des fichiers pour WordPress"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: easy-code-manager.php
+msgid "https://fluentsnippets.com"
+msgstr "https://fluentsnippets.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: easy-code-manager.php app/Hooks/Handlers/AdminMenuHandler.php:22
+msgid "Fluent Snippets"
+msgstr "Fluent Snippets"
+
+#: app/Services/Trans.php:103
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: app/Services/Trans.php:104
+msgid "Activate"
+msgstr "Activer"
